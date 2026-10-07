@@ -26,7 +26,7 @@ My focus is on offensive security, network infrastructure, and automation. I bel
 | Cisco CCNA 2: Switching, Routing, and Wireless Essentials | ✅ Completed |
 | Cisco CCNA 3: Enterprise Networking, Security, and Automation | 🔄 In Progress |
 | NDG Linux Unhatched (Cisco Networking Academy) | ✅ Completed |
-| TryHackMe Top 9% | ✅ Active (130+ day streak) |
+| TryHackMe Top 8% | ✅ Active (130+ day streak) |
 | PortSwigger Web Security Academy | ✅ Multiple Labs Completed |
 
 ---
