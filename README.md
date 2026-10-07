@@ -9,7 +9,7 @@ My focus is on offensive security, network infrastructure, and automation. I bel
 
 **Currently:**
 - Completing CCNA 3: Enterprise Networking, Security, and Automation
-- cs50 introduction to cybersecurity 
+- Completing CS50 Introduction to Cybersecurity
 - Building automation workflows with n8n
 - Expanding my home lab for SOC and Helpdesk practice
 - Learning German (A1 → B1 goal)
