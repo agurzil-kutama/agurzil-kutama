@@ -1,4 +1,4 @@
-## welcome to my profile ! ⴰⵏⵙⵓⴼ ⵢⵉⵙⵡⴻⵏ ⵖⴻⵔ ⵍⴱⵔⵓⴼⵉⵍ ⵉⵏⵓ
+# welcome to my profile ! ⴰⵏⵙⵓⴼ ⵢⵉⵙⵡⴻⵏ ⵖⴻⵔ ⵍⴱⵔⵓⴼⵉⵍ ⵉⵏⵓ
 
 
 ## About Me ⵖⵉⴼⵉ
@@ -50,26 +50,14 @@ My focus is on offensive security, network infrastructure, and automation. I bel
 
 ---
 
-## Featured Projects
+## Repositories
 
-### 🔧 n8n Automation Workflows
-End-to-end automation: Form → Google Sheets → Email notification. Built for small business order processing.
-**Tech:** n8n, Google Sheets API, Gmail
-[View Repository]()
-
-### 🖥️ Home Lab Infrastructure
-Windows Server VM with Active Directory, Linux VMs (Ubuntu, Debian, Kali), and VirtualBox networking.
-**Purpose:** Simulate enterprise IT environment for Helpdesk and SOC practice.
-[View Repository]()
-
-### 🌐 Network Design & Security
-Multi-switch enterprise networks with VLANs, trunking, EtherChannel, STP, Port Security, DHCP Snooping, DAI, and SSH hardening.
-**Tech:** Cisco Packet Tracer, GNS3
-[View Repository]()
-
-### 🚩 CTF Writeups
-Documented solutions for TryHackMe and PortSwigger labs. Topics include Linux privilege escalation, web exploitation, and network security.
-[View Repository]()
+| Repository | Description |
+|---|---|
+| [automation](https://github.com/agurzil-kutama/automation) | n8n workflows and automation projects |
+| [cybersecurity](https://github.com/agurzil-kutama/Cybersecurity) | CTF writeups, security labs, course notes |
+| [networking](https://github.com/agurzil-kutama/networking) | CCNA labs, Packet Tracer, GNS3 topologies |
+| [homelab](https://github.com/agurzil-kutama/homelab) | Home lab infrastructure, Active Directory, helpdesk practice |
 
 ---
 
